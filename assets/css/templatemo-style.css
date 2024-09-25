@@ -459,11 +459,11 @@ button:hover {
 }
 
 .service-item .fourth-service-icon {
-    background-image: url(../images/research.png);
+    background-image: url(../images/guru.png);
 }
 
 .service-item:hover .fourth-service-icon {
-    background-image: url(../images/research.png);
+    background-image: url(../images/guru.png);
 }
 
 .service-item .ningth-service-icon {
@@ -475,11 +475,11 @@ button:hover {
 }
 
 .service-item .ten-service-icon {
-    background-image: url(../images/citech.png);
+    background-image: url(../images/vtu.png);
 }
 
 .service-item:hover .ten-service-icon {
-    background-image: url(../images/citech.png);
+    background-image: url(../images/vtu.png);
 }
 
 /* My Work */
